@@ -1,6 +1,6 @@
 # Hi, I'm Emon
 
-Backend developer · Open source learner · Incoming engineering student (Russia, 2027)
+Backend developer · Open source learner · engineering student 
 
 Building toward contract-ready: **Python · FastAPI · PostgreSQL · Docker · AWS**
 
